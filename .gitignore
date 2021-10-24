@@ -1,0 +1,22 @@
+# Idea code
+*.idea
+*.vscode
+*.pyc
+
+# Environments
+.env
+.venv
+env/
+venv/
+venv1/
+./venv1/
+ENV/
+env.bak/
+venv.bak/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+*/__pycache__
+*.txt
+*.log
